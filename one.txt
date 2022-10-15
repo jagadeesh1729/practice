@@ -1,1 +1,2 @@
-hello i am  not master branch but temp2 branch and temp1.
+hello i am  not master branch but temp1 branch.
+
