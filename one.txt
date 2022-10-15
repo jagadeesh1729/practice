@@ -1,2 +1,2 @@
-hello i am  not master branch but temp1 branch.
-
+hello i am  not master branch but  i am not temp1 branch.i 
+I am Greeting branch. 3 way merge
